@@ -23,4 +23,4 @@ Para ver la página en tu propio entorno, simplemente clona este repositorio y a
 ```bash
 git clone https://github.com/tu_usuario/perfil-1loro.git
 cd perfil-1loro
-open index.html  # o el comando adecuado para tu sistema
+open index.html
