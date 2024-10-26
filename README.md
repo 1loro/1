@@ -10,7 +10,7 @@ Este repositorio contiene el código **HTML**, **CSS** y **JavaScript**. Aquí p
 - **Nombre de Usuario:** `tu_usuario` *(Nombre de usuario en línea.)*
 - **Enlaces Sociales:**
   - [GitHub](https://github.com/1loro) *(Acceso directo a GitHub.)*
-  - [Discord]((https://discord.com/users/267011081380036610)) *(Acceso directo a Discord.)*
+  - [Discord](https://discord.com/users/267011081380036610) *(Acceso directo a Discord.)*
 
 ## 🚀 Tecnologías Utilizadas
 
